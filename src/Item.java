@@ -35,7 +35,4 @@ public class Item {
 	public int getQuantity() {
 		return this.quantity;
 	}
-	
-	
-
 }
